@@ -1,0 +1,4 @@
+# ignore ALL files in from below mentioned folders
+mlruns/
+mlartifacts/
+.venv/
